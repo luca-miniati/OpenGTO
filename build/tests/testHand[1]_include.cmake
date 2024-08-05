@@ -1,0 +1,5 @@
+if(EXISTS "/home/luca/quant/OpenGTO/build/tests/testHand[1]_tests.cmake")
+  include("/home/luca/quant/OpenGTO/build/tests/testHand[1]_tests.cmake")
+else()
+  add_test(testHand_NOT_BUILT testHand_NOT_BUILT)
+endif()

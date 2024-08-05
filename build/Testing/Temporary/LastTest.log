@@ -1,0 +1,18 @@
+Start testing: Aug 03 16:02 PDT
+----------------------------------------------------------
+1/1 Testing: testHand
+1/1 Test: testHand
+Command: "/home/luca/quant/OpenGTO/build/testHand"
+Directory: /home/luca/quant/OpenGTO/build
+"testHand" start time: Aug 03 16:02 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testHand" end time: Aug 03 16:02 PDT
+"testHand" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 03 16:02 PDT

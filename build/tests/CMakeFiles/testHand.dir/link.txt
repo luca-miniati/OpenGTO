@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testHand.dir/__/src/main.cpp.o CMakeFiles/testHand.dir/testHand.cpp.o -o testHand  -lgtest -lgtest_main -lpthread 

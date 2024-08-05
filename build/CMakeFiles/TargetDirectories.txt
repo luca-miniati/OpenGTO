@@ -1,0 +1,5 @@
+/home/luca/quant/OpenGTO/build/CMakeFiles/main.dir
+/home/luca/quant/OpenGTO/build/CMakeFiles/testHand.dir
+/home/luca/quant/OpenGTO/build/CMakeFiles/test.dir
+/home/luca/quant/OpenGTO/build/CMakeFiles/edit_cache.dir
+/home/luca/quant/OpenGTO/build/CMakeFiles/rebuild_cache.dir
